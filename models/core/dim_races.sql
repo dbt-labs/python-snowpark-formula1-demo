@@ -7,7 +7,7 @@ WITH races AS (
         race_name       AS race_name,
         race_date       AS race_date,
         race_time       AS race_time,
-        --race_url        AS race_url,
+        race_url        AS race_url,
         fp1_date        AS fp1_date,
         fp1_time        AS fp1_time,
         fp2_date        AS fp2_date,
